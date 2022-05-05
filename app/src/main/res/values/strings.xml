@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo Simple Click 2</string>
+    <string name="enter_something">Enter Something</string>
+    <string name="display">Display</string>
+    <string name = "disabled">Disabled</string>
+    <string name = "enabled">Enabled</string>
+    <string name="male_radio_text">Male</string>
+    <string name="female_radio_text">Female</string>
+</resources>
